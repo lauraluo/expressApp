@@ -1,0 +1,26 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "pure start",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lauraluo/expressApp.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "laura.luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauraluo/expressApp/issues"
+  },
+  "homepage": "https://github.com/lauraluo/expressApp#readme",
+  "devDependencies": {
+    "express": "^4.14.1"
+  }
+}
